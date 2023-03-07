@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a privat WebRTC project**
 
-- 🌱 I’m currently learning **Node.js, Vue.js, WebRTC and Hackintoshing**
+- 🌱 I’m currently learning **Node.js, Vue.js, WebRTC and getting into Hackintoshing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
